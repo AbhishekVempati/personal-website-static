@@ -1,2 +1,3 @@
 # personal-website-static
-Initial iteration of my personal website. static version.
+Initial iteration of my personal website. Static version.
+Very WET code.
